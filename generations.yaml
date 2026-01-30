@@ -1,0 +1,43 @@
+references:
+  - "https://en.wikipedia.org/wiki/Tata_Tiago"
+
+generations:
+  - name: "First Generation"
+    start_year: 2016
+    end_year: 2020
+    description: "Original Tata Tiago hatchback launched in 2016, successor to the Tata Bolt. Built on the modified Tata X1 platform with 1.2L Revotron petrol and 1.1L Revotorq diesel engines."
+    platform: "Tata X1"
+    body_style: "5-door hatchback"
+    engine: "1.2L Revotron I3 (petrol), 1.1L Revotorq I3 (diesel)"
+    transmission: "5-speed manual, 5-speed AMT"
+    drive: "Front-wheel-drive"
+
+  - name: "First Generation (Facelift)"
+    start_year: 2020
+    end_year: 2024
+    description: "Facelifted Tiago unveiled in 2020 with cosmetic changes and BS6-compliant engines. Introduced Tiago i-CNG version in 2022."
+    platform: "Tata X1"
+    body_style: "5-door hatchback"
+    engine: "1.2L Revotron I3 (petrol/CNG), 1.2L Revotron Turbo I3 (petrol JTP), 1.05L Revotorq I3 (diesel)"
+    transmission: "5-speed manual, 5-speed AMT"
+    drive: "Front-wheel-drive"
+
+  - name: "Second Generation (Facelift)"
+    start_year: 2025
+    end_year: null
+    description: "Second facelift unveiled on January 10, 2025 featuring a redesigned front fascia."
+    platform: "Tata X1"
+    body_style: "5-door hatchback"
+    engine: "1.2L Revotron I3 (petrol/CNG), 1.2L Revotron Turbo I3 (petrol JTP), 1.05L Revotorq I3 (diesel)"
+    transmission: "5-speed manual, 5-speed AMT"
+    drive: "Front-wheel-drive"
+
+  - name: "Tiago.ev (Electric)"
+    start_year: 2022
+    end_year: null
+    description: "Electric version of the Tiago launched in 2022. Available in Medium Range (19.2 kWh battery, 61 hp) and Long Range (24 kWh battery, 74 hp) variants."
+    platform: "Electric vehicle platform"
+    body_style: "5-door hatchback"
+    engine: "Electric motor (61 hp Medium Range, 74 hp Long Range)"
+    transmission: "Single-speed automatic"
+    drive: "Front-wheel-drive"
